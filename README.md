@@ -39,14 +39,23 @@ Ensure you have the following installed:
 
 ## Project Structure
 ├── src
+
 │   ├── App.jsx         # Main application component
+
 │   ├── Editor.jsx      # Custom Draft.js editor logic
+
 │   ├── styles.css      # Styling for the editor
+
 │   └── main.jsx        # Entry point for Vite
+
 ├── public
+
 │   └── index.html      # Main HTML file
+
 ├── package.json        # Project dependencies and scripts
+
 ├── vite.config.js      # Vite configuration
+
 └── README.md           # Project documentation
 
 ## Usage
